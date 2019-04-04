@@ -1,0 +1,54 @@
+{
+ "name": "MusicalInstruments",
+ "children": [
+  {
+   "name": "Wind",
+   "children": [
+    {
+     "name": "Woodwind",
+     "children": [
+      {"name": "Flute", "value": 3938},
+      {"name": "Clarinet", "value": 3812},
+      {"name": "Horn", "value": 6714}
+     ]
+    },
+    {
+     "name": "Others",
+     "children": [
+      {"name": "MouthOrgan", "value": 3534},
+      {"name": "Bagpipes", "value": 5731}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Percussion",
+   "children": [
+    {
+     "name": "Membranophones",
+     "children": [
+      {"name": "Drum", "value": 3938}
+     ]
+    },
+    {
+     "name": "Idiophones",
+     "children": [
+      {"name": "Bells", "value": 3534},
+      {"name": "Triangle", "value": 5731},
+      {"name": "Gong", "value": 5468},
+      {"name": "Cymbals", "value": 4155}
+     ]
+    }
+   ]
+  },
+  { 
+   "name": "Stringed",
+   "children": [
+    {"name": "Harp", "value": 8833},
+    {"name": "Guitar", "value": 1732},
+    {"name": "Violin", "value": 3623},
+    {"name": "Cello", "value": 10066}
+   ]
+  }
+ ]
+}
